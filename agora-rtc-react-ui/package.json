@@ -52,7 +52,7 @@
     "react": ">=16.8"
   },
   "devDependencies": {
-    "agora-rtc-react":  "https://github.com/shayanali4/ria-lingo-video-call/tree/main/packages/agora-rtc-react"
+    "agora-rtc-react":  "https://github.com/shayanali4/agora-packages/tree/main/agora-rtc-react"
     
   }
 }

@@ -55,7 +55,7 @@
   "main": "src/index.ts",
   "devDependencies": {
     "agora-rtc-sdk-ng": "4.20.0",
-    "agora-rtc-react-ui": "https://github.com/shayanali4/ria-lingo-video-call/tree/main/packages/agora-rtc-react-ui"
+    "agora-rtc-react-ui": "https://github.com/shayanali4/agora-packages/tree/main/agora-rtc-react-ui"
   },
   "release-it": {
     "git": {
